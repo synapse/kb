@@ -9,6 +9,7 @@ variety of languages and technologies.
 * [Angular JS](#angularjs)
 * [JavaScript](#javascript)
 * [MySQL](#mysql)
+* [OS X](#osx)
 
 ---
 
@@ -23,5 +24,10 @@ variety of languages and technologies.
 
 ### MySQL
 - [Find duplicates count](mysql/find-duplicates-count.md)
+
+---
+
+### OS X
+- [Activate Webview inspector](osx/activate-webview-inspector-for-apps.md)
 
 ---
