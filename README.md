@@ -8,6 +8,7 @@ variety of languages and technologies.
 
 * [Angular JS](#angularjs)
 * [JavaScript](#javascript)
+* [MySQL](#mysql)
 
 ---
 
@@ -17,3 +18,10 @@ variety of languages and technologies.
 ---
 
 ### JavaScript
+
+---
+
+### MySQL
+- [Find duplicates count](mysql/find-duplicates-count.md)
+
+---
