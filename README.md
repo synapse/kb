@@ -12,7 +12,7 @@ variety of languages and technologies.
 ---
 
 ### Angular JS
-- (Modify `ng-model` from directive)[angularjs/angularjs/modify-ng-model-from-directive.md]
+- [Modify `ng-model` from directive](angularjs/angularjs/modify-ng-model-from-directive.md)
 
 ---
 
