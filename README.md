@@ -10,6 +10,7 @@ variety of languages and technologies.
 * [JavaScript](#javascript)
 * [MySQL](#mysql)
 * [OS X](#osx)
+* [Electron](#electron)
 
 ---
 
@@ -29,5 +30,10 @@ variety of languages and technologies.
 
 ### OS X
 - [Activate Webview inspector](osx/activate-webview-inspector-for-apps.md)
+
+---
+
+### Electron
+- [Auto-updating apps for Windows and OSX ](https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c#.jxm1tpjlk)
 
 ---
