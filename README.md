@@ -12,6 +12,7 @@ variety of languages and technologies.
 * [OS X](#osx)
 * [Electron](#electron)
 * [Sketch](#sketch)
+* [JavaScript Plugins](#javascriptplugins)
 
 ---
 
@@ -42,5 +43,10 @@ variety of languages and technologies.
 ### Sketch
 - [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory)
 - [Sketch package manager](https://github.com/almonk/dpm/)
+
+---
+
+### JavaScript Plugins
+- [Share buttons](http://ellisonleao.github.io/sharer.js/)
 
 ---
