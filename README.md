@@ -11,6 +11,7 @@ variety of languages and technologies.
 * [MySQL](#mysql)
 * [OS X](#osx)
 * [Electron](#electron)
+* [Sketch](#sketch)
 
 ---
 
@@ -34,6 +35,12 @@ variety of languages and technologies.
 ---
 
 ### Electron
-- [Auto-updating apps for Windows and OSX ](https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c#.jxm1tpjlk)
+- [Auto-updating apps for Windows and OSX](https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c#.jxm1tpjlk)
+
+---
+
+### Sketch
+- [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory)
+- [Sketch package manager](https://github.com/almonk/dpm/)
 
 ---
