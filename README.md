@@ -13,6 +13,7 @@ variety of languages and technologies.
 * [Electron](#electron)
 * [Sketch](#sketch)
 * [JavaScript Plugins](#javascriptplugins)
+* [Swift](#swift)
 
 ---
 
@@ -43,6 +44,11 @@ variety of languages and technologies.
 ### Sketch
 - [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory)
 - [Sketch package manager](https://github.com/almonk/dpm/)
+
+---
+
+### Swift
+- [30 Days of Swift](https://github.com/allenwong/30DaysofSwift)
 
 ---
 
