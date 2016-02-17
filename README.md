@@ -14,6 +14,7 @@ variety of languages and technologies.
 * [Sketch](#sketch)
 * [JavaScript Plugins](#javascriptplugins)
 * [Swift](#swift)
+* [Node JS](#nodejs)
 
 ---
 
@@ -54,5 +55,10 @@ variety of languages and technologies.
 
 ### JavaScript Plugins
 - [Share buttons](http://ellisonleao.github.io/sharer.js/)
+
+---
+
+### Node JS
+- [Upgrade Node.js via NPM](nodejs/upgrade-node-via-npm.md)
 
 ---
