@@ -15,6 +15,7 @@ variety of languages and technologies.
 * [JavaScript Plugins](#javascriptplugins)
 * [Swift](#swift)
 * [Node JS](#nodejs)
+* [HTML](#html)
 
 ---
 
@@ -60,5 +61,10 @@ variety of languages and technologies.
 
 ### Node JS
 - [Upgrade Node.js via NPM](nodejs/upgrade-node-via-npm.md)
+
+---
+
+### HTML
+- [Head](html/head.md)
 
 ---
